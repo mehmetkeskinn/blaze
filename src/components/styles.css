@@ -1,0 +1,21 @@
+/* .book-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+
+.book-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.book-image {
+  max-width: 200px;
+}
+
+.book-name {
+  margin-top: 10px;
+  font-weight: bold;
+} */

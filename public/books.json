@@ -1,0 +1,44 @@
+[
+  {
+    "name": "The Little Prince",
+    "price": 9.99,
+    "category": "Novella",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Littleprince.JPG/220px-Littleprince.JPG"
+  },
+  {
+    "name": "The Da Vinci Code",
+    "price": 14.99,
+    "category": "Non-fiction",
+    "description": "Nulla venenatis massa id orci lobortis placerat.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6b/DaVinciCode.jpg"
+  },
+  {
+    "name": "A Brief History of Time",
+    "price": 17.99,
+    "category": "Popular science",
+    "description": "Nulla venenatis massa id orci lobortis placerat.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/41/Brieferhistoryoftime-cover.jpg"
+  },
+  {
+    "name": "The Godfather",
+    "price": 19.99,
+    "category": "Crime novel",
+    "description": "Nulla venenatis massa id orci lobortis placerat.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f4/Godfather-Novel-Cover.png"
+  },
+  {
+    "name": "Catching Fire",
+    "price": 10.99,
+    "category": "science fiction",
+    "description": "Nulla venenatis massa id orci lobortis placerat.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a2/Catching_Fire_%28Suzanne_Collins_novel_-_cover_art%29.jpg"
+  },
+  {
+    "name": "Animal Farm",
+    "price": 12.99,
+    "category": "Political satire",
+    "description": "Sed tristique justo ac ipsum malesuada auctor.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Animal_Farm_-_1st_edition.jpg"
+  }
+]
